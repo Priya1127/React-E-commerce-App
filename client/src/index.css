@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif !important;
+  background-color: #fceded !important;
+}
+.btn{
+  margin: 0.5rem !important;
+}
+.navbar{
+  background-color: #6d0d0d !important;
+}
+.navbar-brand{
+  font-size: 17px !important;
+}
+.landing-page{
+  background: white url('./assets/img/bg-image.jpg') no-repeat scroll center !important;
+  background-size: cover;
+  height: 100vh;
+  color: #85ccab;
+}
+.wrapper{
+  background-color: rgba(0,0,0,0.6) !important;
+  height: 100%;
+
+}
+.showBorder{
+  font-size: 17px !important;
+  padding: 3px;
+  text-shadow: 3px 3px 15px black !important;
+}
+
+.curve-border1{
+  border-radius: 15%;
+}
+
+.curve-border2{
+  border-radius: 5%;
+}
+
+.avatarImg{
+  background-color: white;
+}

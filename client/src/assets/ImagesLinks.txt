@@ -1,0 +1,51 @@
+
+material for stripe doc: https://blog.risingstack.com/stripe-payments-integration-tutorial-javascript/
+
+khadusPorga@gmail.com
+abhishek
+
+coolpriya2711@gmail.com
+priya123
+
+https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif
+
+
+Material :- Comfortable Cotton material which is specially designed for your skin with trendy look.
+Style-Kurta Pyjama/ Fit-Regular/ Length-Mid Thigh
+Product Size: Kurta's actual chest measurement is 6 inches more i.e. for 4 Sizes we give: M (38), L (40), XL(42), XXL (44) actual product chest will be M - 44,L - 46 XL - 48 XXL - 50 inches respectively
+Product size guidance: if you prefer regular/ comfort fit go for our exact size. however, if you prefer slim fit, go for 1 size smaller
+
+dispatch(alertActions.showAlert('bg-primary', 'Registration Successful, Please login to continue', 'fa-check-circle')); //success alert
+
+dispatch(alertActions.showAlert('bg-warning', 'Wrong information provided', 'fa-exclamation-triangle')); //warning alert
+
+dispatch(alertActions.showAlert('bg-danger', 'Error, Please try again with the correct info', 'fa-exclamation-circle'));  //error alert
+
+public: pk_test_51JHPd4SFtZqNB2DTyEk4zSw5bZXaELTb083loAU3D3FE7GIbGN3cP4r0d2cH0IDYcPIzHBe6rlPjtEBxvF9XfKT200tH1Uy9vy
+private: sk_test_51JHPd4SFtZqNB2DTyUOzFNGyBQ8Xx9hm1wRgCtI6WIE3c5i2hM6oFf95v7QrzjHJRjhe7anSa38JOLpd1LgwKxpY00HS5v2S74
+
+Amazon link of products:
+
+mens:
+https://www.amazon.com/Amazon-Essentials-Lightweight-Full-Zip-Sweatshirt/dp/B07VWBL26M/ref=sr_1_1_sspa?_encoding=UTF8&c=ts&dchild=1&keywords=Men%27s+Fashion+Hoodies+%26+Sweatshirts&qid=1627622832&s=apparel&sr=1-1-spons&ts_id=1258644011&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExT0dNNDAwNE5ZVUFIJmVuY3J5cHRlZElkPUEwNDQxNTk0VUMyOUdHOFQwSDZDJmVuY3J5cHRlZEFkSWQ9QTEwMTE2NTAxV0ROMkhWNDc0ODgxJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+https://www.amazon.com/Amazon-Brand-Goodthreads-Sweater-Knit-Long-Sleeve/dp/B08D6XWM7J/ref=sr_1_5?_encoding=UTF8&c=ts&dchild=1&keywords=Men%27s+Fashion+Hoodies+%26+Sweatshirts&qid=1627622832&s=apparel&sr=1-5&ts_id=1258644011
+https://www.amazon.com/CICVSOC-Pockets-Athletic-Workout-Running/dp/B093VB1CF5/ref=sr_1_3_sspa?_encoding=UTF8&c=ts&dchild=1&keywords=Men%27s+Shorts&qid=1627622852&s=apparel&sr=1-3-spons&ts_id=1045560&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVlpIUEdLQVdERTQ5JmVuY3J5cHRlZElkPUEwMDk4NjQzMUVQNU0wT0wwVDY4NiZlbmNyeXB0ZWRBZElkPUEwNjQ1NzI2MzZKRkI3S1ZRUEJLViZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+https://www.amazon.com/Dockers-Mens-Classic-Fit-Perfect-Short-British/dp/B009CTUBGS/ref=sr_1_8?_encoding=UTF8&c=ts&dchild=1&keywords=Men%27s+Shorts&qid=1627622852&s=apparel&sr=1-8&ts_id=1045560
+https://www.amazon.com/Goodthreads-Inseam-Lightweight-Oxford-moonlight/dp/B07DZSRRZB/ref=sr_1_1_sspa?_encoding=UTF8&c=ts&dchild=1&keywords=Men%27s+Shorts&qid=1627622852&s=apparel&sr=1-1-spons&ts_id=1045560&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVlpIUEdLQVdERTQ5JmVuY3J5cHRlZElkPUEwMDk4NjQzMUVQNU0wT0wwVDY4NiZlbmNyeXB0ZWRBZElkPUEwOTgzODU5MlBOT0wzVzdFRk9QUCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+https://www.amazon.com/Linen-Blazer-Button-Casual-X-Large/dp/B082HPP6MC/ref=lp_1045694_1_1
+https://www.amazon.com/Goodthreads-Slim-Fit-Long-Sleeve-Herringbone-Eclipse/dp/B072VHKTDW?ref_=Oct_DLandingS_D_b52c4b04_63&smid=ATVPDKIKX0DER
+https://www.amazon.com/Hanes-Comfortwash-Garment-Fleece-Sweatshirt/dp/B086LJX84J?ref_=Oct_omwf_d_1040658&pd_rd_w=YVZvG&pf_rd_p=98f9896b-b0b5-418e-9dae-1ebddcb85d58&pf_rd_r=T3J9ET4EAJ1B6QD6ANMG&pd_rd_r=21f8810c-ff9d-4a1f-aef3-1b47c0fda2c8&pd_rd_wg=om67v&pd_rd_i=B086LJX84J
+https://www.amazon.com/Hanes-ComfortSoft-Short-Sleeve-T-Shirt/dp/B07KCN4G6T?ref_=Oct_omwf_d_1040658&pd_rd_w=YVZvG&pf_rd_p=98f9896b-b0b5-418e-9dae-1ebddcb85d58&pf_rd_r=T3J9ET4EAJ1B6QD6ANMG&pd_rd_r=21f8810c-ff9d-4a1f-aef3-1b47c0fda2c8&pd_rd_wg=om67v&pd_rd_i=B07KCN4G6T
+https://www.amazon.com/Gash-Hao-Convertible-Waterproof-Lightweight/dp/B08YQZ2313?ref_=Oct_old_d_1040658_3_d12348b4&pd_rd_w=mzOoK&pf_rd_p=3a9c4f4a-c01c-4bbb-90b0-d9fb6de0de6f&pf_rd_r=T3J9ET4EAJ1B6QD6ANMG&pd_rd_r=21f8810c-ff9d-4a1f-aef3-1b47c0fda2c8&pd_rd_wg=om67v
+
+women:
+https://www.amazon.com/just-quella-Cropped-Oversized-Sweaters/dp/B0838XV6QL/ref=sr_1_6?dchild=1&pd_rd_r=bd070d21-b67d-4cb4-9b93-1bb74ea6b3b8&pd_rd_w=YfjXN&pd_rd_wg=XXqzd&pf_rd_p=a10c66f2-5465-4d26-ac0f-6b448ca4162d&pf_rd_r=077JZMPTS3BT0QSFTZ7J&qid=1627622525&sr=8-6
+https://www.amazon.com/just-quella-Adjustable-Chiffon-Leopard/dp/B08Y89WZFK/ref=sr_1_1?dchild=1&pd_rd_r=bd070d21-b67d-4cb4-9b93-1bb74ea6b3b8&pd_rd_w=YfjXN&pd_rd_wg=XXqzd&pf_rd_p=a10c66f2-5465-4d26-ac0f-6b448ca4162d&pf_rd_r=077JZMPTS3BT0QSFTZ7J&qid=1627622525&sr=8-1
+https://www.amazon.com/LEE-Womens-Regular-Trouser-Bungalow/dp/B07SNKY5DB/ref=sr_1_4?_encoding=UTF8&c=ts&dchild=1&keywords=Women%27s+Pants&qid=1627622399&s=apparel&sr=1-4&ts_id=1048184
+https://www.amazon.com/Beautife-Womens-Sleeve-Collared-Pockets/dp/B07VQR356Z?ref_=Oct_odotd_d_4_2dedda98&pd_rd_w=W58KY&pf_rd_p=a10c66f2-5465-4d26-ac0f-6b448ca4162d&pf_rd_r=0WJPRN984YWPW254AHXD&pd_rd_r=3d8947b3-3e27-44d5-8efa-5501accb2876&pd_rd_wg=SWp6e
+https://www.amazon.com/Ekouaer-Womens-Flexible-Lightweight-Workout/dp/B07VWP1BFC?ref_=Oct_odotd_d_3_0af7d603&pd_rd_w=W58KY&pf_rd_p=a10c66f2-5465-4d26-ac0f-6b448ca4162d&pf_rd_r=0WJPRN984YWPW254AHXD&pd_rd_r=3d8947b3-3e27-44d5-8efa-5501accb2876&pd_rd_wg=SWp6e
+https://www.amazon.com/BTFBM-Fashion-V-Neck-Sleeve-X-Large/dp/B082NKSV4J?ref_=Oct_old_d_1040660_0_cb646cf3&pd_rd_w=oaJQY&pf_rd_p=3a9c4f4a-c01c-4bbb-90b0-d9fb6de0de6f&pf_rd_r=0WJPRN984YWPW254AHXD&pd_rd_r=3d8947b3-3e27-44d5-8efa-5501accb2876&pd_rd_wg=SWp6e
+https://www.amazon.com/MEROKEETY-Cardigans-Sweaters-Outwear-Pockets/dp/B08D3Q9FPF?ref_=Oct_old_d_1040660_1_9a622e60&pd_rd_w=oaJQY&pf_rd_p=3a9c4f4a-c01c-4bbb-90b0-d9fb6de0de6f&pf_rd_r=0WJPRN984YWPW254AHXD&pd_rd_r=3d8947b3-3e27-44d5-8efa-5501accb2876&pd_rd_wg=SWp6e
+https://www.amazon.com/PRETTYGARDEN-Sleeveless-Jumpsuit-Crewneck-Drawstring/dp/B08QRJH1B9?ref_=Oct_old_d_1040660_2_a1e7ef7b&pd_rd_w=oaJQY&pf_rd_p=3a9c4f4a-c01c-4bbb-90b0-d9fb6de0de6f&pf_rd_r=0WJPRN984YWPW254AHXD&pd_rd_r=3d8947b3-3e27-44d5-8efa-5501accb2876&pd_rd_wg=SWp6e
+
+kids:
